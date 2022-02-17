@@ -1,4 +1,8 @@
-<h2 align="center">Olá, me chamo Bruno</h2>
+<h2 align="center"> <br>
+
+Olá, me chamo Bruno!
+<br>
+</h2>
 
 ```
 Estudante de Ciência da computação - UNIT, sou apaixonado por computador desde pequeno
