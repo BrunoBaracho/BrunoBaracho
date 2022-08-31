@@ -24,8 +24,9 @@ e adoro mexer com codigos, desde criar servidores no minecraft a criação de si
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Java
--
+- AWS Serveless
 
 ## Meus dados no Github :file_folder:
 
