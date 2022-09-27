@@ -51,8 +51,7 @@ I have a community called Guia Dev Brazil that helps people in the computing are
   </tr>
 </table>
 
-## My Github status :file_folder:
+## My Github stats :file_folder:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBaracho&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBaracho&layout=compact&theme=tokyonight)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoBaracho&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunobaracho&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunobarcho&theme=nord_dark) |
+| :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
