@@ -53,5 +53,5 @@ I have a community called Guia Dev Brazil that helps people in the computing are
 
 ## My Github stats :file_folder:
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoBaracho&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunobaracho&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunobarcho&theme=nord_dark) |
-| :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brunobaracho&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brunobaracho&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Brunobaracho&theme=nord_dark) |
+| :-------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: |
