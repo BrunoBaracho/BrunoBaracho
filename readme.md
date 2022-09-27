@@ -14,11 +14,10 @@ Hi, i'm Bruno - @guiadevbrasil
 
 </h2>
 
-```
 I am a computer science student, passionate about technology, at the age of 12 I had my first contact with the computer and to this day I remain focused on the evolution of programming with a focus on cybersecurity.
 
 I have a community called Guia Dev Brazil that helps people in the computing area, whose purpose is to make free and quality content available to the whole world and introduce more people in the area of technology, in the community there are several repositories to help and guide people in its development path, I love to know new things, work in groups and have new experiences, I want to work outside Brazil, improve my English and meet new cultures, people and have new experiences, currently I also study computer science and I dedicate myself to becoming a full-stack developer and cybersecurity specialist.
-```
+<br>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
