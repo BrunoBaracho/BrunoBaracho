@@ -1,3 +1,8 @@
+<h2 align="center"> <br>
+
+Hi, i'm Bruno - @guiadevbrasil
+
+</h2>
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/arthurspk)](https://www.instagram.com/brunobarachonunes/)
@@ -6,13 +11,6 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
 
 </h4>
-
-<h2 align="center"> <br>
-
-Hi, i'm Bruno - @guiadevbrasil
-<br>
-
-</h2>
 
 I am a computer science student, passionate about technology, at the age of 12 I had my first contact with the computer and to this day I remain focused on the evolution of programming with a focus on cybersecurity.
 
